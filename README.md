@@ -1,5 +1,5 @@
 Repo for testing
 
-Creating conflict
+This is the conflicting line
 
 This line is for Problem1Bg
